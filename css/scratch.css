@@ -1,0 +1,46 @@
+/* Basic CSS for Real Estate Scratch Page */
+
+body {
+    background-color: #f5f5f5;
+    font-family: Arial, sans-serif;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-color: #ffffff;
+    padding: 20px;
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+}
+
+.nav {
+    background-color: #ddd;
+    padding: 10px;
+    text-align: center;
+}
+
+.content {
+    padding: 20px;
+}
+
+.video-section, .tableau-section {
+    padding: 20px;
+    background-color: #fff;
+    margin: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+h1, h2 {
+    color: #2c3e50;
+}
+
+a {
+    color: #0066cc;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
